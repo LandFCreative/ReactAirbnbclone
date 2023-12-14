@@ -1,0 +1,59 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    margin: 0;
+    font-family: 'Poppins', sans-serif;
+}
+
+/* CSS for Navbar */
+nav {
+    height: 70px;
+    display: flex;
+    padding: 20px 30px;
+    box-shadow: 0px 2.98256px 7.4564px rgba(0, 0, 0, 0.1);
+}
+
+.navlogo {
+    max-width: 100px;
+}
+
+/* CSS for Middle/Hero Section */
+
+.herosection {
+ padding: 20px;
+ display: flex;
+ flex-direction: column;
+}
+
+.heroimage {
+    width: 395.91;
+    align-self: center;
+    margin-top: 16px;
+}
+
+/* CSS for Cards at the bottom */
+
+.section {
+    padding: 20px;
+
+}
+
+.cardcontainer {
+    width: 175px;
+    font-size: 12px;
+}
+
+.cardimage {
+    width: 100%;
+    border-radius: 9px;
+}
+
+.bold {
+    font-weight: bold;
+}
+
+.gray {
+    color: #918E9B;
+}
