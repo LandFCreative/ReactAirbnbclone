@@ -1,9 +1,11 @@
 <h2> My Professional Portfolio</h2>
 
+<img src="./images/Screen.png" width="50%" />
 
 <h3>Built with:</h3>
 <ul>
   <li>React</li> 
+  <li>Bootstrap</li> 
 </ul>
 
 
