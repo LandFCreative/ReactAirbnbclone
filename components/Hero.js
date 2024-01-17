@@ -1,12 +1,12 @@
 import React from "react"
 
-export default function Navbar() {
+export default function Hero() {
     return (
-        <div className="herosection">
-            <img src="../images/photo-grid.png" className="heroimage"/>
-            <h1 className="hero--header">Online Experiences</h1>
-            <p className="hero--text">Join unique interactive activities led by 
-            one-of-a-kind hosts—all without leaving home.</p>
-        </div>
+        <section className="hero">
+            <img src="../images/photo-grid.png" className="hero--photo" />
+            <h1 className="hero--header">Creative Experiences</h1>
+            <p className="hero--text">Join in lessons on unique interactive activities led by 
+            one-of-a-kind artists all over the world!</p>
+        </section>
     )
 }
