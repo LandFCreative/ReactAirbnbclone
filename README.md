@@ -20,7 +20,7 @@
 <b>Continued development</b>
 
 <b>I'd like to:</b>
-Try useing React to build a multipage project.
+Try using React to build a multipage project.
 
 Quick start:
 
