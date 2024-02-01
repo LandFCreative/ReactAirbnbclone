@@ -1,4 +1,4 @@
-<h2> My Professional Portfolio</h2>
+<h2> My Airbnb Experience clone</h2>
 
 <img src="./images/Screen.png" width="50%" />
 
@@ -20,8 +20,7 @@
 <b>Continued development</b>
 
 <b>I'd like to:</b>
-
-Make the code a bit dryer to reduce repetition; maybe try use REACT
+Try useing React to build a multipage project.
 
 Quick start:
 
